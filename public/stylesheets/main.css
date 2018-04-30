@@ -1,0 +1,29 @@
+*{
+   box-sizing: border-box;
+}
+
+body{
+   background-color: #ddd;
+}
+
+.thumbnail {
+   
+   padding: 0;
+}
+
+.thumbnail img {
+   width: 100%;
+   
+}
+
+.caption-full {
+   padding: 1rem 1.5rem;
+   background: #eee;
+   color: #333;
+}
+
+blockquote, .pull-right{
+   color: #333;
+   font-size: 1.3rem;
+   border-left: none;
+}
