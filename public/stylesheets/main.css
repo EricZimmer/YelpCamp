@@ -27,3 +27,7 @@ blockquote, .pull-right{
    font-size: 1.3rem;
    border-left: none;
 }
+
+.inline{
+   display:inline;
+}
