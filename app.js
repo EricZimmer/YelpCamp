@@ -42,8 +42,6 @@ app.use(function(req, res, next) {
    next();
 });
 
-
-
 //store user in locals
 app.use( (req, res, next) => {
    res.locals.currentUser = req.user;
